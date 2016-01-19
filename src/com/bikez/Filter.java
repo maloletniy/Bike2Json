@@ -1,3 +1,5 @@
+package com.bikez;
+
 import com.google.gson.Gson;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.io.filefilter.FileFilterUtils;

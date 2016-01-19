@@ -1,3 +1,5 @@
+package com.bikez;
+
 /**
  * Created by maloletniy on 19/04/15.
  */

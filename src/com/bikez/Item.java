@@ -1,3 +1,5 @@
+package com.bikez;
+
 /**
  * Created by maloletniy on 18/02/15.
  */
@@ -26,7 +28,7 @@ class Item {
 
     @Override
     public String toString() {
-        return "Item{" +
+        return "com.bikez.Item{" +
                 "make='" + make + '\'' +
                 ", model='" + model + '\'' +
                 ", year='" + year + '\'' +
